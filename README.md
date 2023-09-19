@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">I'm an Italin guy based in liverpool UK</p>
-
-###
-
-<p align="left">Recently I have decided to change career, from surpervisor Proctuion Techinican to Software developer</p>
+<p align="left">🇮🇹 I'm an Italian guy currently living in Liverpool, UK. My journey into the world of software and hardware began when I got fascinated with technology. It all started with my first encounter with Arduino, and from that moment on, I fell head over heels in love with this captivating realm.<br><br>🛠️ While working as a production technician in a factory, I dedicated my free time to exploring and learning more about software development and hardware tinkering. Over the years, I honed my coding skills, constantly striving to expand my knowledge.<br><br>💼 After a few years of coding in my spare time, I had an epiphany—I wanted to turn my passion into a profession. Determined to make this change, I embarked on a challenging journey. I enrolled in a bootcamp that equipped me with invaluable skills and insights, solidifying my foundation in the tech industry.<br><br>📚 Currently, I'm on a continuous learning journey, delving into PHP and Laravel, two powerful tools in the web development world. My goal is to land my first job as a software developer, where I can apply my skills, passion, and dedication to create innovative and meaningful solutions.<br><br>🌟 Join me on my tech adventure, and let's make the digital world a better place together!</p>
 
 ###
 
@@ -67,13 +63,23 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<h3 align="center">Let's connect, collaborate, and code together! 🚀🌍</h3>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/davidecastelli87" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="davidecastelli87@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=plastic" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="castelli1987.dc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://northcoders.slack.com/team/U04V5APRHFA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=plastic" height="35" alt="slack logo"  />
+  </a>
 </div>
 
 ###
